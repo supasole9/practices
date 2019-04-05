@@ -1,0 +1,20 @@
+#homeHero{
+    background-image: url(flatEarth.jpg);
+    height: 500px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.listItems{
+    list-style: none;
+    display: inline-block;
+    margin: 10px;
+}
+
+#unoderedList{
+    text-align: center;
+    font-size: 18px;
+    padding: 5px 0;
+    background-color: coral;
+    margin-top: 0;
+}
